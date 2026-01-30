@@ -12,6 +12,9 @@ This project performs customer segmentation on an online retail dataset using RF
 - Raw dataset: `Online Retail.xlsx`
 - Cleaned results: `RFM_Analysis_Results.xlsx`
 
+## Raw Data (Excel)
+![Raw Data](raw_data.png)
+
 ## Data Cleaning
 The following steps were performed:
 - Removed rows with missing Customer IDs
