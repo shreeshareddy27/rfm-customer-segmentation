@@ -7,6 +7,10 @@ This project performs customer segmentation on an online retail dataset using RF
 - Total Customers: 4,339
 - Each record represents a customer transaction.
 
+## Data & Files
+- Raw dataset: `Online Retail.xlsx`
+- Cleaned results: `RFM_Analysis_Results.xlsx`
+
 ## Data Cleaning
 The following steps were performed:
 - Removed rows with missing Customer IDs
