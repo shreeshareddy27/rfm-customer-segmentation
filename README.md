@@ -1,4 +1,5 @@
 # Customer Segmentation using RFM Analysis
+![RFM Dashboard](dashboard.png)
 
 This project performs customer segmentation on an online retail dataset using RFM (Recency, Frequency, Monetary) analysis.
 
