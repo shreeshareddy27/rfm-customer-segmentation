@@ -23,6 +23,9 @@ The following steps were performed:
 - Removed duplicate records
 - Calculated total monetary value per customer
 
+## Clean Data (Excel)
+![Clean Data](clean_data.png)
+
 ## RFM Metrics
 For each customer:
 - Recency: Days since last purchase
